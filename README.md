@@ -18,6 +18,6 @@ Used font: [JetBrains Mono](https://www.jetbrains.com/lp/mono/).
 
 ## Installation
 
-Download both the themes files (.yaml) and copy it to your warp themes forlder (usually `~/.warp/themes/`).
+Download both the themes files (.yaml) and copy it to your warp themes folder (usually `~/.warp/themes/`).
 
 Once copied, you can select the theme in Warp settings.
